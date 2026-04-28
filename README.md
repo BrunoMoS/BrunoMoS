@@ -1,16 +1,28 @@
-## Hi there 👋
+# Olá, mundo! 👋 Eu sou [Bruno Moreira Dos Santos]
 
-<!--
-**BrunoMoS/BrunoMoS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### [Aspirante a programador] 🚀
 
-Here are some ideas to get you started:
+[![LinkedIn Badge](https://shields.io)](https://linkedin.com)
+[![Portfólio Badge](https://shields.io)](https://seuportfolio.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 Sobre mim
+- 🌱 Atualmente estudando [HTML], [CSS], [JS].
+- 💬 Pergunte-me sobre [Frontend].
+- ⚡ Curiosidade: [Diciplinado].
+
+## 🛠️ Stacks de Tecnologias
+<div style="display: inline_block">
+  <img align="center" alt="HTML" src="https://shields.io" />
+  <img align="center" alt="CSS" src="https://shields.io" />
+  <img align="center" alt="JS" src="https://shields.io" />
+</div>
+
+---
+
+## 📊 Estatísticas do GitHub
+![Estatísticas do GitHub](https://vercel.app)
+![Top Linguagens](https://vercel.app)
+
+---
