@@ -37,8 +37,8 @@ Sou um desenvolvedor interessado em criar experiências digitais modernas, tanto
 ## 📊 Estatísticas do GitHub
 
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoMoS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoMoS&layout=compact&langs_count=10&theme=tokyonight&count_private=true&include_all_commits=true&hide_progress=false"/>
+[<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoMoS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoMoS&layout=compact&langs_count=10&theme=tokyonight&count_private=true&include_all_commits=true&hide_progress=false"/>](https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api?username=BrunoMoS&...)
 </div>
   
 ---
